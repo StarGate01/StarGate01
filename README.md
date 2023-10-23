@@ -5,7 +5,7 @@
 - Strive to save our planet, otherwise everything else is pointless.
 - Always consider Open-Source.
 
-Sometimes I blog at [chrz.de](https://chrz.de), and rarely check [LinkedIn](https://www.linkedin.com/in/christoph-honal/).
+Sometimes I blog at [chrz.de](https://chrz.de), and rarely check [LinkedIn](https://www.linkedin.com/in/christoph-honal/). Reach me via Matrix at `/@stargate01:matrix.org`.
 
 Most of the time I work for [zeromouse.de](https://zeromouse.de), [vivokey.com](https://vivokey.com), and whatever I find interesting:
 
