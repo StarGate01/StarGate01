@@ -7,7 +7,7 @@
 
 Sometimes I blog at [chrz.de](https://chrz.de), and rarely check [LinkedIn](https://www.linkedin.com/in/christoph-honal/). Reach me via Matrix at `@stargate01:matrix.org`.
 
-Most of the time I work for [zeromouse.de](https://zeromouse.de), [vivokey.com](https://vivokey.com), and whatever I find interesting:
+Most of the time I work for [zeromouse.ai](https://zeromouse.ai), [vivokey.com](https://vivokey.com), and whatever I find interesting:
 
 - Hardware, firmware and interface engineering
 - NFC, RFID and LoRa
