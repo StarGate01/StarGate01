@@ -7,9 +7,10 @@
 
 Sometimes I blog at [chrz.de](https://chrz.de), and rarely check [LinkedIn](https://www.linkedin.com/in/christoph-honal/). Reach me via Matrix at `@stargate01:matrix.org`.
 
-Most of the time I work for [zeromouse.ai](https://zeromouse.ai), [vivokey.com](https://vivokey.com), and whatever I find interesting:
+Most of the time I work for [zeromouse.ai](https://zeromouse.ai), [vivokey.com](https://vivokey.com), [dangerousthings.com](https://dangerousthings.com), and whatever I find interesting:
 
 - Hardware, firmware and interface engineering
+- ESP32 (IDF), RP2040, NXP PN* and SmartMX chipsets
 - NFC, RFID and LoRa
 - KeePassXC and YubiKey tools
 - WebAuthN, FIDO2, and CTAP
